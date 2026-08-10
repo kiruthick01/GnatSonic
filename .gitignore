@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# PlatformIO
+firmware/**/.pio/
+firmware/**/.vscode/
+.pioenvs/
+.piolibdeps/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# editor
+.vscode/
+.idea/
